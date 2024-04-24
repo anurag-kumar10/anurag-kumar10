@@ -1,3 +1,4 @@
+![logo](https://github.com/anurag-kumar10/banner-png/blob/main/SAVE_20240424_144043-01.jpeg)
 <h1 align="center">Hello🙋🏼, I'm Anurag Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India🕉️</h3>
 <img align ="right" alt ="coding"  src ="https://i.pinimg.com/originals/33/fa/71/33fa7169ec81266cec664f84322dbf2a.gif">
