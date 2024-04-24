@@ -1,8 +1,7 @@
 ![logo](https://github.com/anurag-kumar10/banner-png/blob/main/SAVE_20240424_144043-01.jpeg)
 <h1 align="center">Hello🙋🏼, I'm Anurag Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India🕉️</h3>
-<img align ="right" alt ="coding"  src ="https://i.pinimg.com/originals/33/fa/71/33fa7169ec81266cec664f84322dbf2a.gif">
-
+<img align ="right" alt ="coding"  src ="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-kumar10&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-kumar10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anuragkumar_10_" target="blank"><img src="https://img.shields.io/twitter/follow/anuragkumar_10_?logo=twitter&style=for-the-badge" alt="anuragkumar_10_" /></a> </p>
