@@ -1,4 +1,4 @@
-![logo]((https://github.com/anurag-kumar10/banner-png/blob/main/1717852730660.jpg))
+![logo]([(https://github.com/anurag-kumar10/banner-png/blob/main/1717852730660.jpg)](https://github.com/anurag-kumar10/banner-png/blob/main/1717852730660.jpg))
 <h1 align="center">Hello🙋🏼, I'm Anurag Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India🕉️</h3>
 <img align ="right" alt ="coding"  src ="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_pap19zg4ae1w3zg6go1_500.gif">
